@@ -1,0 +1,12 @@
+{
+    "name": "main",
+    "version": "1.0.0",
+    "description": "General file with scripts to execute server and frontendß",
+    "scripts": {
+      "install": "cd server && npm i",
+      "server": "cd server && npm run start"
+    },
+    "author": "Edgard Diaz (josgard)",
+    "license": "ISC"
+  }
+  
